@@ -102,7 +102,7 @@ Timer32_startTimer(TIMER32_0_BASE, true);
 ```
 not always accurate
 # Timer A
-![[attachments/Pasted image 20240418230433.png]] pg791 of mcu tech
+![img](https://github.com/toluk-26/2564-Notes/blob/main/attachments/Pasted%20image%2020240418230433.png) pg791 of mcu tech
 pg792-794 has **make sure output example title matches question** 
 
 CCR0 is period
@@ -123,8 +123,8 @@ D is the decimal equivalent
 span $V_H-V_L$
 resolution $\frac{V_H-V_L}{2^n}$
 ## binary weighted ladder
-![[attachments/Pasted image 20240418225525.png]]
+![](https://github.com/toluk-26/2564-Notes/blob/main/attachments/Pasted%20image%2020240418225525.png)
 only useful in 8 bits are fewer
 ## R-2R ladder
-![[attachments/Pasted image 20240418225750.png]]
-![[attachments/Pasted image 20240418225649.png]]
+![](https://github.com/toluk-26/2564-Notes/blob/main/attachments/Pasted%20image%2020240418225750.png)
+![](https://github.com/toluk-26/2564-Notes/blob/main/attachments/Pasted%20image%2020240418230549.png)
