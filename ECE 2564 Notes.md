@@ -1,14 +1,15 @@
 # C
 ## printf data types
-| printf ref | data type |
-| ---- | ---- |
-| %d or %i | int |
-| %f | float, double |
-| %p | address |
-| %u | unsigned int |
-| %lu | unsigned long |
-| %l | long |
-| %c | char |
+| printf ref | data type     |        |
+| ---------- | ------------- | ------ |
+| %d or %i   | int           | 32     |
+|            | short         | +-2^15 |
+| %f         | float, double |        |
+| %p         | address       |        |
+| %u         | unsigned int  |        |
+| %lu        | unsigned long |        |
+| %l         | long          |        |
+| %c         | char          |        |
 these are stackable, from \[type] \[type] \[unsigned]
 ## pointers
 `var* varname` will hold an address to something a variable
